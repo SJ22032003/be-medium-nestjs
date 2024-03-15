@@ -1,2 +1,14 @@
-# be-medium-nestjs
-repo contains integration of NestJS framework and crud operation. Database postgress with typeorm
+# Basic Auth Project
+
+This is a basic authentication system built with NestJS, a progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
+
+## Tech Stack
+
+- **Backend**: NestJS
+- **Database**: PostgreSQL
+- **ORM**: TypeORM
+- **Testing**: Jest
+- **Linting**: ESLint
+- **Formatting**: Prettier
+
+This project includes features like user registration, login, and article management. It uses TypeORM for database operations and Jest for testing.
