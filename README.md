@@ -1,6 +1,6 @@
-# Basic Auth Project
+# Medium Backend with NestJS Project
 
-This is a basic authentication system built with NestJS, a progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
+This is a system built with NestJS, a progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
 
 ## Tech Stack
 
